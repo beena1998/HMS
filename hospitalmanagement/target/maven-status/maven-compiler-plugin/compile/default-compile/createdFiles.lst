@@ -1,0 +1,17 @@
+com\hcl\hms\service\PatientServiceImpl.class
+com\hcl\hms\controller\PhysicianController.class
+com\hcl\hms\dao\PatientDao.class
+com\hcl\hms\dao\PatientDaoImpl.class
+com\hcl\hms\model\Physician.class
+com\hcl\hms\service\PhysicianServiceImpl.class
+com\hcl\hms\dao\DiagnosisDao.class
+com\hcl\hms\service\PhysicianService.class
+com\hcl\hms\controller\PatientController.class
+com\hcl\hms\dao\DiagnosisDaoImpl.class
+com\hcl\hms\service\DiagnosisServiceImpl.class
+com\hcl\hms\service\DiagnosisService.class
+com\hcl\hms\model\Patient.class
+com\hcl\hms\model\DiagnosisDetails.class
+com\hcl\hms\dao\PhysicianDao.class
+com\hcl\hms\service\PatientService.class
+com\hcl\hms\dao\PhysicianDaoImpl.class
